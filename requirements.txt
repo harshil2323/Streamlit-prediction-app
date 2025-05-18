@@ -1,0 +1,11 @@
+streamlit>=1.42.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+pillow>=10.0.0
+pytesseract>=0.3.0
+easyocr>=1.7.0
+python-docx>=0.8.11
+torch>=2.0.0
+torchvision>=0.15.0
+python-Levenshtein>=0.21.0
+pyspellchecker>=0.7.0

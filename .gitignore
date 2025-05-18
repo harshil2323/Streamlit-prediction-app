@@ -1,0 +1,26 @@
+# Python virtual environment
+env/
+venv/
+ENV/
+.venv/
+
+# Streamlit config (optional, if you want to keep it local)
+.streamlit/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code workspace settings
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
